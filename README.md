@@ -10,6 +10,7 @@ File compression allows the user to obtain a compressed version of a file which 
 # Decompressor
 The compressed files can be restored through the process of decompression, whereby the user can retrieve the original file when required. 
 
+
 This allows the users to easily compress and decompress files at will, when required, without any data loss.
 
 # Instructions to run the Project locally
